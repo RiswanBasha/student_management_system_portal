@@ -1,26 +1,6 @@
 # student_management_system_in_django
 student_management_system_in_django
 
-
-<br>
-<br>
-<hr>
-<h2>Donate</h2>
-<table>
-<tr>
-</td>
-<td style="width:25%">
-<p><b>Donate 50 : </b><br><a href="https://imjo.in/TDfYvS"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
-</td>
-<td style="width:25%">
-<p><b>Donate 100 : </b><br><a href="https://imjo.in/k8jdjD"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
-</td>
-<td style="width:25%">
-<p><b>Donate 200 : </b><br><a href="https://imjo.in/eSd5ft"><img src="https://github.com/hackstarsj/student_management_system_part_11/blob/master/screenshots/donate-paytm.png"/></a> </p>
-</td>
-</tr>
-</table>
-<hr>
 <h2>Installation Steps : </h2>
 
 <p>Project Dependency :</p>
@@ -31,7 +11,6 @@ pip install mysql-client
 </pre>
 <hr>
 <ul>
-<ol>First Create MySql Database Tutorial : <a href="https://youtu.be/cEazlDKu86E">https://youtu.be/cEazlDKu86E</a> </ol>
 <ol>Change Database Setting in settings.py </ol>
 <ol>
 Run Migration Command 
@@ -50,7 +29,6 @@ Run Project python runserver
 </ol>
 </ul>
 <hr>
-<b>For Video Confrencing Using This Library Complete Demo Project : <a href="https://www.rtcmulticonnection.org/">https://www.rtcmulticonnection.org/</a></b>
 <hr>
 <h2>Complete Video Course</h2>
 <div align="center" style="width:100%">
