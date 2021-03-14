@@ -5,6 +5,7 @@ student_management_system_in_django
 
 <p>Project Dependency :</p>
 <pre>
+pip install -r requirements.txt
 pip install requests
 pip install Django
 pip install mysql-client
